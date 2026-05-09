@@ -5,7 +5,7 @@
 
 ### 🚀 Estudiante de DAM | Aspirante a Fullstack Engineer & SysAdmin
 
-Soy estudiante de segundo año de **Grado Superior en DAM** y autodidacta por cuenta propia. Mi enfoque actual combina el desarrollo de software con el desarrollo de software, automatización e ingeniería de sistemas.
+Soy estudiante de segundo año de **Grado Superior en DAM** y autodidacta por cuenta propia. Mi enfoque actual combina el desarrollo de software con su arquitectura, automatización e ingeniería de sistemas.
 
 - 🔭 **Proyecto actual:** Desarrollando una SaaS B2B enfocado en Ciberseguridad y administración de empresa.
 - 🎯 **Objetivo:** Especializarme en arquitecturas Fullstack escalables y administración de infraestructuras.
